@@ -2,8 +2,13 @@
 " Name: eva01
 " Author: hachy
 " License: MIT
+" Last Edited: 2015-11-01
 " Modified by Taylor C. Richberger (Github Taywee) to make it a little easier
-" on the eyes
+" on the eyes and slightly more appealing.
+" Specifically, the background was slightly tinted grey, some of the greens
+" were changed to grey, the divider was made a solid line, and some colors
+" were made more vibrant.
+" This is essentially a compromise between eva01 and wombat256
 
 set background=dark
 highlight clear
